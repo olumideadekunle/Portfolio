@@ -35,16 +35,4 @@ if menu == "Introduction":
         
         """ 
         )
-"""
-elif menu == "Dashboard":
-    st.title("Dashboard")
-    
 
-elif menu == "Settings":
-    st.title("Settings")
-    st.write("Settings panel content.")
-
-elif menu == "About":
-    st.title("About")
-    st.write("About the app.")
-"""

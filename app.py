@@ -3,13 +3,13 @@ import streamlit as st
 st.set_page_config(page_title="Sidebar Navigation", layout="wide")
 
 # Fixed header (always visible and does not change)
-st.image("Olumide Adekunle B.- Researcher.jpg", width=60)
+st.image("Olumide Buari.- Researcher.jpg", width=60)
 
 
 st.markdown(
     """
     <div style=padding:15px;border-radius:5px;">
-        <h2 style="margin:0;text-align:center;">Buari Olumide</h2>
+        <h2 style="margin:0;text-align:center;">Olumide Adekunle B.</h2>
         
     </div>
     <br>

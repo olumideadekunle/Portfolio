@@ -35,10 +35,10 @@ if menu == "Introduction":
         
         """ 
         )
-
+"""
 elif menu == "Dashboard":
     st.title("Dashboard")
-    st.write("Dashboard content goes here.")
+    
 
 elif menu == "Settings":
     st.title("Settings")
@@ -47,3 +47,4 @@ elif menu == "Settings":
 elif menu == "About":
     st.title("About")
     st.write("About the app.")
+"""

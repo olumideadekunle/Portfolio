@@ -20,7 +20,7 @@ st.markdown(
 # Sidebar menu
 menu = st.sidebar.radio(
     "Navigation",
-    ["Introduction", "Dashboard", "Settings", "About"]
+    ["Introduction", "Curriculum Vitae", "Settings", "About"]
 )
 
 # Main page content

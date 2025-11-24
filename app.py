@@ -30,8 +30,8 @@ if menu == "Introduction":
         """Hello! I'm Olumide Adekunle B, a versatile professional 
         operating at the intersection of Data Science, Machine Learning, AI Agent development, Academic Research, and Natural Language Processing. My passion lies in transforming complex data into 
         actionable insights, designing intelligent systems, 
-        and contributing to cutting-edge advancements in Artificial Intelligence. This comprehensive portfolio is a testament to my expertise in leveraging data-driven 
-        approaches to solve real-world problems and drive innovation.
+        and contributing to cutting edge advancements in Artificial Intelligence. This comprehensive portfolio is a testament to my expertise in leveraging impact meaningful
+        approaches to solve real Life Practical problems and drive innovation.
         
         """ 
         )

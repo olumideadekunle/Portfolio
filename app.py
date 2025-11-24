@@ -8,7 +8,7 @@ st.image("Olumide Buari- Researcher.jpg", width=60)
 
 st.markdown(
     """
-    <div style="background-color:black;padding:15px;border-radius:5px;">
+    <div style=padding:15px;border-radius:5px;">
         <h2 style="margin:0;text-align:center;">Buari Olumide</h2>
         
     </div>

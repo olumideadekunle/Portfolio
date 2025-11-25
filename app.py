@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Sidebar Navigation", layout="wide")
 
 # Fixed header (always visible and does not change)
-st.image("Olumide_Buari-Researcher.jpg")
+st.image("Olumide_Buari-Researcher.jpg", width=50)
 #st.image("**Olumide Buari- Researcher.jpg**")
 
 
